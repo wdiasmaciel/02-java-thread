@@ -1,6 +1,6 @@
 package tarefa;
 
-class Tarefa implements Runnable {
+public class Tarefa implements Runnable {
     private String nome;
 
     public Tarefa(String nome) {
