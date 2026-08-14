@@ -12,8 +12,8 @@ java Main
 
 # Exercícios:
 
-Em Java, implemente as aplicações abaixo.
-Em Markdown, explique suas soluções.
+Em Java, implemente a aplicação abaixo.
+Em Markdown, explique sua solução.
 
 ## 1) O Backup
 
