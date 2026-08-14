@@ -1,5 +1,10 @@
 import tarefa.Tarefa;
 
+/*
+ * A thread main espere um instante e interrompa a Thread A 
+ * no meio do seu trabalho, forçando o bloco catch a ser 
+ * executado.
+ */
 public class Main {
     public static void main(String[] args) {
         Tarefa tarefa = new Tarefa("Thread A");
