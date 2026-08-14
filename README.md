@@ -15,7 +15,7 @@ java Main
 Em Java, implemente a aplicação abaixo.
 Em Markdown, explique sua solução.
 
-## 1) O Backup
+## 1) Serviço de Backup
 
 Escreva um programa em Java que simule um processo de backup dividido em 5 etapas. Cada etapa simula um processamento pesado demorando 1 segundo (Thread.sleep(1000)).
 
